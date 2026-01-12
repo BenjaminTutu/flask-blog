@@ -290,4 +290,4 @@ def contact():
 #         connection.sendmail(MAIL_ADDRESS, MAIL_APP_PW, email_message)
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5002)
+    app.run(debug=False, port=5002)
