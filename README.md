@@ -15,10 +15,10 @@ A full-stack blog application built with Flask, featuring role-based access cont
 ## Screenshots
 
 > **Homepage**
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/homepage.png.png)
 
 > **Blog Post View**
-![Blog Post](screenshots/post.png)
+![Blog Post](screenshots/post.png.png)
 
 > **Admin Dashboard**
 ![Admin](screenshots/admin.png)
